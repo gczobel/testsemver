@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/gczobel/testsemver/compare/v1.0.2...v1.0.3) (2022-04-08)
+
+
+### Bug Fixes
+
+* add pull req ([e730014](https://github.com/gczobel/testsemver/commit/e7300147776e95aa33e8c0b8fb74402abbbadca3))
+
 ## [1.0.2](https://github.com/gczobel/testsemver/compare/v1.0.1...v1.0.2) (2022-04-08)
 
 
