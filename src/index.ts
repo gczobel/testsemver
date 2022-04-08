@@ -1,5 +1,5 @@
 /**
- * Determine whether you are spelling 'Chanon' correctly
+ * Determine whether you are spelling 'Chanon' correctly.
  */
  export default function isChanon(str: string): boolean {
     if (typeof str !== 'string') return false
