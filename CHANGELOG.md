@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gczobel/testsemver/compare/v1.0.0...v1.0.1) (2022-04-08)
+
+
+### Bug Fixes
+
+* typo ([#3](https://github.com/gczobel/testsemver/issues/3)) ([c07343d](https://github.com/gczobel/testsemver/commit/c07343d693347e3d3f5b18aa7c63223c5386611a))
+
 # 1.0.0 (2022-04-08)
 
 
