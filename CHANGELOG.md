@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/gczobel/testsemver/compare/v1.0.1...v1.0.2) (2022-04-08)
+
+
+### Bug Fixes
+
+* add ([#5](https://github.com/gczobel/testsemver/issues/5)) ([d1a9bcf](https://github.com/gczobel/testsemver/commit/d1a9bcf8473fb91d9f19acd6e9f0307507e6a20f))
+
 ## [1.0.1](https://github.com/gczobel/testsemver/compare/v1.0.0...v1.0.1) (2022-04-08)
 
 
